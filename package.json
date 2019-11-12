@@ -1,5 +1,5 @@
 {
-  "name": "eslint-prettier-config",
+  "name": "@mrstalon/eslint-prettier-config",
   "version": "1.0.0",
   "description": "Eslint and prettier config template",
   "main": "index.js",
